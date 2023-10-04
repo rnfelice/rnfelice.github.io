@@ -1,0 +1,17 @@
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby@2.7/bin/ruby -I /usr/local/Cellar/ruby@2.7/2.7.7/lib/ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230608-61673-6ggmfo sitelibdir\=./.gem.20230608-61673-6ggmfo clean
+
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230608-61673-6ggmfo sitelibdir\=./.gem.20230608-61673-6ggmfo
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230608-61673-6ggmfo sitelibdir\=./.gem.20230608-61673-6ggmfo install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230608-61673-6ggmfo
