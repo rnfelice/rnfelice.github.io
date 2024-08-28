@@ -1,0 +1,19 @@
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+/usr/local/opt/ruby@2.7/bin/ruby -I /usr/local/Cellar/ruby@2.7/2.7.7/lib/ruby/2.7.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240828-72277-14d0nra sitelibdir\=./.gem.20240828-72277-14d0nra clean
+
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240828-72277-14d0nra sitelibdir\=./.gem.20240828-72277-14d0nra
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/rnf/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/rnfelice.github.io/vendor/bundle/ruby/2.7.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240828-72277-14d0nra sitelibdir\=./.gem.20240828-72277-14d0nra install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240828-72277-14d0nra
