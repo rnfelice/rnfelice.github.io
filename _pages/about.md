@@ -6,7 +6,7 @@ subtitle: morphology, modularity, macroevolution
 
 profile:
   align: right
-  image: bg copy.jpg
+  image: bg_copy.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 
