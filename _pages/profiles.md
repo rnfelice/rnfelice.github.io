@@ -10,17 +10,57 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: RNF.jpg
+    content: about_rnf.md
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: Andy_Knapp.jpg
+    content: about_andy.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: right
+    image: Oyston.jpg
+    content: about_jack.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: Mitchell.jpeg
+    content: about_matt.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: right
+    image: mariccibasa.jpeg
+    content: about_maricci.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: Kat_G.jpg
+    content: about_Kat.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: right
+    image: Warshaw.jpg
+    content: about_elias.md
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
