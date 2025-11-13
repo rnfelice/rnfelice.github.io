@@ -1,5 +1,5 @@
 ## Jack Oyston
-### Postdoctoral Researchers
+##### Postdoctoral Researchers
 I am a statistical palaeontologist interested in using phylogenetic comparative methods to investigate common patterns of morphological evolution. I completed my PhD in 2018 on convergent evolution and how it relates to macroevolutionary patterns of organism’s diversity, phylogeny, and range of form (disparity). I have gone on to research evolutionary patterns of morphological complexity across tetrapods (Wills lab, University of Bath), as well as investigate the effects of body and brain size on bird diversification using Bayesian state-dependent speciation and extinction models (Felice lab, UCL). I am particularly interested in how common patterns in the morphological evolution of tetrapods have been shaped by biological constraint and environmental change. I am currently developing new methods to model the evolution of complex phenotypes, to investigate the correlated evolution of the skull and brain in birds and mammals.
 
    <ul class="list-inline">
