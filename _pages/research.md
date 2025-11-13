@@ -12,16 +12,16 @@ profiles:
   - align: right
     image: pcm_image-01.jpg
     content: research_pcms.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: 
-  - align: left
+  - align: right
     image: modularity_image-01.jpg
     content: research_modularity.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: 
   - align: right
     image: diversification_fig.jpg
     content: research_div.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: 
 ---
