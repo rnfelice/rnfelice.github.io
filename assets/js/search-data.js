@@ -4,12 +4,19 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
+  },{id: "nav-research",
+          title: "Research",
+          description: "The primary research interests in the lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-people",
           title: "People",
           description: "Meet the Lab",
           section: "Navigation",
@@ -17,11 +24,18 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Selected publications from the lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-join-us",
+          title: "Join Us",
+          description: "Interested in Joining us?",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/join/";
           },
         },{id: "post-a-post-with-plotly-js",
         
