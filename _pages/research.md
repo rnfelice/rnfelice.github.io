@@ -24,3 +24,4 @@ profiles:
     content: research_div.md
     image_circular: true # crops the image to make it circular
     more_info: 
+---

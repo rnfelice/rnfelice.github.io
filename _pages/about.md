@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: morphology, modularity, macroevolution
+subtitle: Morphology, Modularity, Macroevolution
 
 profile:
   align: right
