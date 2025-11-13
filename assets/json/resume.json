@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ryan N. Felice",
+    "label": "Evolutionary Biologist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ryan.felice@ucl.ac.uk",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I’m a evolutionary biologist with focus on using phylogenetic comparative methods to understand the macroevolution of the vertebrate skeleton. I am particularly interested in geometric morphometrics, Bayesian evolutionary modelling, and understanding how trait covariation (e.g., modularity and integration) influences macroevolutionary tempo and mode.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Anatomy Building",
+      "postalCode": "WC1E 6BT",
+      "city": "London",
+      "countryCode": "UK",
     },
     "profiles": [
       {
