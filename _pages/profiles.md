@@ -44,7 +44,7 @@ profiles:
     content: about_elias.md
     image_circular: false # crops the image to make it circular
     more_info: 
-   - align: left
+  - align: left
     image: marek_2025.jpg
     content: about_marek.md
     image_circular: false # crops the image to make it circular
