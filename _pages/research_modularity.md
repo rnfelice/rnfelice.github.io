@@ -1,2 +1,3 @@
 ## Modularity
+
 How does phenotypic diversity evolve? What are the drivers and constraints of phenotypic change through deep time? To address these questions, we use 3D imaging and advanced shape analysis techniques to quantify phenotypic variation. We are particularly interested in the evolution of skull and axial skeletal morphology and how extrinsic (e.g., climate, habitat) and intrinsic (e.g., trait interactions, development) relate to morphological variation.

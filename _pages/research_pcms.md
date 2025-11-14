@@ -1,2 +1,3 @@
 ## Phylogenetic Comparative Methods
+
 A key component of our research is the development and application of phylogenetic comparative methods- a key component of understanding evolutionary morphology in a historical context. Our work in this area has included developing a new method for evaluating the strength of phenotypic covariance using phylogenies, as well as a project using simulated phylogenies and phenotypes to understand how trait covariance shapes evolvability and evolutionary rates.
