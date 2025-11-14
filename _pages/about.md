@@ -24,5 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The Felice Lab is part of the [Centre for Integrative anatomy](https://www.ucl.ac.uk/life-sciences/c4ia) in the Department of Cell and Developmental Biology at UCL.
+The Felice Lab is part of the [Centre for Integrative Anatomy](https://www.ucl.ac.uk/life-sciences/c4ia) in the Department of Cell and Developmental Biology at UCL.
 Our research is focused on the evolution of morphological diversity through time. We use geometric morphometrics, 3-D visualization, and phylogenetic comparative methods to understand how the component parts of organisms relate to one another (i.e., modularity and integration) and how these interactions have shaped evolvability, disparity, and variation across the tree of life. In pursuit of these goals, We use paleontological and neontological data across a variety of clades, including birds, dinosaurs, crocodylians, mammals and more.
