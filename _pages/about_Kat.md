@@ -10,6 +10,11 @@ My research interests focus on using multivariate methods to take a more holisti
             <i class="fa-solid fa-envelope"></i>
           </a>
         </li>
+            <li class="list-inline-item">
+          <a href="https://bsky.app/profile/morpho-kat.bsky.social" title="BlueSky">
+            <i class="fa-brands fa-bluesky"></i>
+          </a>
+        </li>
         <li class="list-inline-item">
           <a href="https://twitter.com/Morpho_Kat" title="Twitter">
             <i class="fa-brands fa-x-twitter"></i>
