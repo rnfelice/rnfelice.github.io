@@ -189,14 +189,11 @@ ul.task-list input[type="checkbox"] {
 .citation-number {
   color: var(--global-theme-color);
 }
-// Profile (Flex Layout)
+
+// Profile
 
 .profile {
-  display: flex;
-  gap: 1rem;
-  align-items: flex-start;
   width: 100%;
-  margin-bottom: 1rem;
 
   .more-info {
     margin-bottom: 5px;
@@ -210,30 +207,14 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-/* Image + extra info stays in a fixed-width column */
-.profile-media {
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.profile.float-right {
+  margin-left: 1rem;
 }
 
-/* Text column takes remaining space */
-.profile-content {
-  flex: 1;
-  min-width: 0;
+.profile.float-left {
+  margin-right: 1rem;
 }
 
-/* Remove float-based spacing — convert to flex alignment instead */
-.profile-left {
-  flex-direction: row;           // image on left
-}
-
-.profile-right {
-  flex-direction: row-reverse;   // image on right
-}
-
-/* Keep your original width change on larger screens */
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -242,6 +223,20 @@ ul.task-list input[type="checkbox"] {
       p {
         display: block;
       }
+    }
+  }
+}
+
+.post-description {
+  margin-bottom: 2rem;
+  font-size: 0.875rem;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
     }
   }
 }
