@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/join/";
           },
+        },{id: "nav-lab-life",
+          title: "Lab Life",
+          description: "Details and Policy on Lab Culture",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lab_life/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
