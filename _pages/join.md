@@ -15,3 +15,6 @@ I am always open to discussing opportunities for PhD students and postdoctoral r
 
 Early career researchers interested in working in my lab can apply for independent research funding through opporunities like the [Royal Society Newton International Fellowships](https://royalsociety.org/grants/newton-international/) or [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). Get in touch with me well in advance of deadlines to discuss!
 
+## Job Openings
+
+Links to job openings and funded PhD studentships will be posted here. (there are none on offer right now)

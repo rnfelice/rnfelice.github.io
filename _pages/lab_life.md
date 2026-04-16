@@ -11,7 +11,6 @@ tabs: true
 ## SAFE Labs Handbook 
 Our lab manual implements the guidelines outlined in the [SAFE Labs Handbook](https://safelabs.info). The idea is to document the lab's commitments to creating a more positive lab environment. Below are our commitments and expectations in case you decide to [join us](/join/).
 
-SAFE Labs
 I commit to publicly document...
 
 … a diversity statement
