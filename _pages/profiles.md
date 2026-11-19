@@ -44,7 +44,7 @@ profiles:
     content: about_elias.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: federico.jpg
     content: about_federico.md
     image_circular: false # crops the image to make it circular
