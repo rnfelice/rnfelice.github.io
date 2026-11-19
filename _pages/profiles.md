@@ -44,4 +44,16 @@ profiles:
     content: about_elias.md
     image_circular: false # crops the image to make it circular
     more_info:
+  - align: right
+    image: federico.jpg
+    content: about_federico.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 ---
+
+## Alumni
+
+- **Ryan D. Marek** — Postdoctoral Researcher
+- **Taylor West** — Research Technician
+- **Naomi de Leo** — Visiting PhD Student
+- **Saketh Sundar** — Visiting Project Student

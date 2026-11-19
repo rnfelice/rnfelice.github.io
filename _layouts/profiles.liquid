@@ -31,6 +31,10 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
+      {% if content != '' %}
+        <hr>
+        {{ content }}
+      {% endif %}
     {% endif %}
   </article>
 </div>

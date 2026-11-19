@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "/bin/zsh",
+      "runtimeArgs": ["-c", "export PATH=/opt/homebrew/opt/ruby/bin:/usr/bin:$PATH; bundle exec jekyll serve --port 4000 --config _config.yml,/private/tmp/claude-501/-Users-rfelice--claude-spares-spare-j5OySm/e34a1b06-5339-4f7d-9ff3-d15d6f37e726/scratchpad/_config.local.yml"],
+      "port": 4000
+    }
+  ]
+}
